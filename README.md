@@ -3,10 +3,6 @@
     <a href="#"><img src="https://media.tenor.com/rmmiikcfCs8AAAAi/hacker-hacker-man.gif" width=100></a>
 </div>
 
-<div align="center">
-  <img height="158" src="https://media.tenor.com/rmmiikcfCs8AAAAi/hacker-hacker-man.gif"  />
-</div>
-
 ###
 
 <div align="center">
