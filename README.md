@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as software developer @Firefly<br>- 📚 I'm currently reading Building Microservices - Sam Newman<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
+<h4 align="left">- 🔭 I’m working as software developer @Firefly<br>- 📚 I'm interested in system design - Sam Newman<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
 
 ###
 
