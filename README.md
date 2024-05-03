@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as software developer @Firefly<br>- 📚 I'm interested in system design<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
+<h4 align="left">- 🔭 I’m working as Senior Full Stack Engineer @Pyne.ai<br>- 📚 I'm interested in system design<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
 
 ###
 
@@ -45,7 +45,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" width="52" alt="apachekafka logo"  />
