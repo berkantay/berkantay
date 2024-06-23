@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as Senior Full Stack Engineer @pyne.ai<br>- 📚 I'm interested in system design<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
+<h4 align="left">- 🔭 I’m working as Senior Full Stack Engineer @pyne.ai<br>- 📚 I'm interested in System and Product Design<br>- ⚡ In my free time I go to gym, ride motorcycle and code.</h4>
 
 ###
 
