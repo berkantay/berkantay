@@ -10,3 +10,4 @@
 
 ### 🛠️ Contributions  
 - [Fiber Web Framework](https://github.com/gofiber/storage)
+- [Notte Browser Agent](https://github.com/nottelabs/notte)
