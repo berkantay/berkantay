@@ -3,7 +3,7 @@
 <h4 align="left">
  🚀 Building mode: ON <br>
  👾 Tech-agnostic product crafter <br>
- ⚡ I do CrossFit, ride motorcycles, and code
+ ⚡ I do Crossfit, ride motorcycle, and code
 </h4>
 
 ---
