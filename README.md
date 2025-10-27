@@ -12,3 +12,4 @@
 - [Fiber Web Framework](https://github.com/gofiber/storage)
 - [Notte Browser Agent](https://github.com/nottelabs/notte)
 - [Attendee Online Meeting Bot](https://github.com/attendee-labs/attendee)
+- [Zed IDE Extensions](https://github.com/zed-industries/extensions)
