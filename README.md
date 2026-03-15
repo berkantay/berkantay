@@ -19,5 +19,5 @@
 ### 📦 Products
 - Email for AI Agents [bax.email](https://bax.email)
 - Turn you website into new one [primepage.ai](https://primepage.ai)
-- [Webhooks for AI Agents](https://openhook.dev)
-- [RL environments research lab](https://021labs.ai)
+- Webhooks for AI Agents [openhook.dev](https://openhook.dev)
+- RL environments research lab [021labs.ai](https://021labs.ai)
