@@ -13,3 +13,11 @@
 - [Notte Browser Agent](https://github.com/nottelabs/notte)
 - [Attendee Online Meeting Bot](https://github.com/attendee-labs/attendee)
 - [Zed IDE Extensions](https://github.com/zed-industries/extensions)
+
+---
+
+### 📦 Products
+- Email for AI Agents [bax.email](https://bax.email)
+- Turn you website into new one [primepage.ai](https://primepage.ai)
+- [Webhooks for AI Agents](https://openhook.dev)
+- [RL environments research lab](https://021labs.ai)
