@@ -6,6 +6,9 @@
  ⚡ I do Crossfit, ride motorcycle, and code
 </h4>
 
+---
+
+
 ### ✏️ Notes  
 - [berkant.me](https://berkant.me)
 
