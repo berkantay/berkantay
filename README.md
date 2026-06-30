@@ -4,6 +4,7 @@
  🚀 Building mode: ON <br>
  👾 Tech-agnostic product crafter <br>
  ⚡ I do Crossfit, ride motorcycle, and code
+ for more [berkant.me](https://berkant.me)
 </h4>
 
 ---
