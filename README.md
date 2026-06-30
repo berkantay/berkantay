@@ -17,6 +17,7 @@
 ---
 
 ### 📦 Products
+- AI Employee Living in Slack [layzee.dev](https://layzee.dev)
 - Email for AI Agents [bax.email](https://bax.email)
 - Turn you website into new one [primepage.ai](https://primepage.ai)
 - Webhooks for AI Agents [openhook.dev](https://openhook.dev)
